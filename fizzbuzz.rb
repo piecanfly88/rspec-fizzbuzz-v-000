@@ -8,6 +8,5 @@ def fizzbuzz(int)
       end
     end
   end
-  puts nil
 end
 fizzbuzz(2)
