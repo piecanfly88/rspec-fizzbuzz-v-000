@@ -8,5 +8,6 @@ def fizzbuzz(int)
       end
     end
   end
+  nill
 end
 fizzbuzz(2)
